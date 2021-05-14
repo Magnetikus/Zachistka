@@ -18,7 +18,7 @@ public class Popadanie : MonoBehaviour
         if (collision.gameObject.tag == "Pulya")
         {
             
-            DestroyScript.DestroyMe();
+            //DestroyScript.DestroyMe();
         }
     }
 
